@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋¡Hola! Mi nombre es Fabian Andres Lizana Leyton y sean bienvenidos a mi perfil en GitHub 👋
+
+Soy Fabian Andres Lizana Leyton y me dedico al mundo del desarrollo de software. Actualmente, me especializo como desarrollador Full Stack JavaScript. Mi trayectoria académica incluye una formación en contabilidad, complementada con cursos en Alura y el programa de Full Stack JavaScript de Desafío Latam.
+
+En el corto plazo, me enfocaré en dominar nuevas tecnologías emergentes y explorar campos como la inteligencia artificial y la realidad virtual para expandir mis habilidades. A largo plazo, mi meta es liderar equipos de desarrollo en proyectos innovadores que impacten positivamente en la sociedad y contribuyan al avance de la tecnología.
 
 <!--
 **FabianLizana/FabianLizana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
