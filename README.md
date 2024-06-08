@@ -4,6 +4,8 @@ Soy Fabian Andres Lizana Leyton y me dedico al mundo del desarrollo de software.
 
 En el corto plazo, me enfocaré en dominar nuevas tecnologías emergentes y explorar campos como la inteligencia artificial y la realidad virtual para expandir mis habilidades. A largo plazo, mi meta es liderar equipos de desarrollo en proyectos innovadores que impacten positivamente en la sociedad y contribuyan al avance de la tecnología.
 
+💻 Desarrollador Full Stack JavaScript | 🌐 HTML | 🎨 CSS | 🚀 JavaScript | 📦 Node.js | 🌟 Bootstrap | 🐙 Git | 📊 Express.js | 🔥 React
+
 <!--
 **FabianLizana/FabianLizana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
