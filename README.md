@@ -1,22 +1,24 @@
-## Hi there 👋¡Hola! Mi nombre es Fabian Andres Lizana Leyton y sean bienvenidos a mi perfil en GitHub 👋
+# 💫 About Me:
+¡Hola! Soy [Tu Nombre], un apasionado programador junior de 35 años, oriundo de la vibrante ciudad de Santiago, Chile. Con un entusiasmo insaciable por el aprendizaje continuo y un deseo ardiente de destacar en el mundo de la tecnología, estoy en constante búsqueda de oportunidades para participar en proyectos innovadores y desafiantes.<br><br>Aunque mi viaje en el desarrollo de software ha comenzado recientemente, mi dedicación y pasión por el código son profundas. Mi objetivo es no solo crecer como desarrollador, sino también contribuir significativamente a los equipos y proyectos en los que me involucro. Soy un firme creyente en la colaboración y en la idea de que cada línea de código puede hacer una diferencia.<br>Habilidades y Tecnologías<br><br>    Lenguajes: JavaScript, HTML, CSS<br>    Frameworks y Librerías: React, Node.js, bootstrap.<br>    Herramientas: Git, GitHub, VS Code<br>    Metodologías: Desarrollo Ágil, SCRUM<br><br>Proyectos Destacados<br><br>    Projecto Fbi-system: https://github.com/FabianLizana/Desafio-FBI-System<br>    Mercado Web: https://github.com/FabianLizana/Desafio--Mercado-web<br><br>¿Por qué yo?<br><br>    Aprendizaje Rápido: Siempre estoy al día con las últimas tendencias y tecnologías.<br>    Adaptabilidad: Capaz de adaptarme rápidamente a nuevos entornos y equipos.<br>    Trabajo en Equipo: Disfruto colaborando y aprendiendo de otros profesionales del campo.<br>    Proactividad: Tomo la iniciativa para resolver problemas y mejorar los procesos.<br><br>Estoy emocionado por las oportunidades que el futuro depara y ansioso por colaborar en proyectos que desafíen mis habilidades y expandan mis conocimientos. Si estás buscando un programador junior con energía, dedicación y una gran pasión por la tecnología, ¡no dudes en contactarme!
 
-Soy Fabian Andres Lizana Leyton y me dedico al mundo del desarrollo de software. Actualmente, me especializo como desarrollador Full Stack JavaScript. Mi trayectoria académica incluye una formación en contabilidad, complementada con cursos en Alura y el programa de Full Stack JavaScript de Desafío Latam.
 
-En el corto plazo, me enfocaré en dominar nuevas tecnologías emergentes y explorar campos como la inteligencia artificial y la realidad virtual para expandir mis habilidades. A largo plazo, mi meta es liderar equipos de desarrollo en proyectos innovadores que impacten positivamente en la sociedad y contribuyan al avance de la tecnología.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/fabian.lizana.leyton/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fabian-andres-lizana-leyton-307119247/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/fabian-andres-lizana-leyton) 
 
-💻 Desarrollador Full Stack JavaScript | 🌐 HTML | 🎨 CSS | 🚀 JavaScript | 📦 Node.js | 🌟 Bootstrap | 🐙 Git | 📊 Express.js | 🔥 React
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=FabianLizana&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=FabianLizana&theme=calm_pink&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FabianLizana&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!--
-**FabianLizana/FabianLizana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-Here are some ideas to get you started:
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=FabianLizana&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=FabianLizana&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
